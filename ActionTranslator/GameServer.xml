@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameServerConfiguration>
+  <GameMySQL>
+    <Hostname>127.0.0.1</Hostname>
+    <Username>root</Username>
+    <Password>1234</Password>
+    <Database>zf</Database>
+    <Port>3306</Port>
+  </GameMySQL>
+  <LogMySQL>
+    <Hostname>127.0.0.1</Hostname>
+    <Username>root</Username>
+    <Password>1234</Password>
+    <Database>zf</Database>
+    <Port>3306</Port>
+  </LogMySQL>
+  <ResourceMySQL>
+    <Hostname>127.0.0.1</Hostname>
+    <Username>root</Username>
+    <Password>1234</Password>
+    <Database>zf</Database>
+    <Port>3306</Port>
+  </ResourceMySQL>
+  <AccountServer>
+    <AccountAddress>127.0.0.1</AccountAddress>
+    <AccountPort>9865</AccountPort>
+    <ServerName>Dragon</ServerName>
+    <LoginName>test</LoginName>
+    <Password>test</Password>
+    <MaxOnlinePlayers>500</MaxOnlinePlayers>
+    <LoginOvertimeSecs>30</LoginOvertimeSecs>
+  </AccountServer>
+  <BlowfishKey>C238xs65pjy7HU9Q</BlowfishKey>
+  <TransferKey>
+    <Key>EypKhLvYJ3zdLCTyz9Ak8RAgM78tY5F32b7CUXDuLDJDFBH8H67BWy9QThmaN5Vb</Key>
+    <Salt>MyqVgBf3ytALHWLXbJxSUX4uFEu3Xmz2UAY9sTTm8AScB7Kk2uwqDSnuNJske4By</Salt>
+  </TransferKey>
+</GameServerConfiguration>

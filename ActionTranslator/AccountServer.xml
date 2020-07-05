@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AccountServerConfiguration>
+  <MySQL>
+    <Hostname>127.0.0.1</Hostname>
+    <Username>root</Username>
+    <Password>1234</Password>
+    <Database>account_cq</Database>
+    <Port>3306</Port>
+  </MySQL>
+  <TransferKey>
+    <Key>EypKhLvYJ3zdLCTyz9Ak8RAgM78tY5F32b7CUXDuLDJDFBH8H67BWy9QThmaN5Vb</Key>
+    <Salt>MyqVgBf3ytALHWLXbJxSUX4uFEu3Xmz2UAY9sTTm8AScB7Kk2uwqDSnuNJske4By</Salt>
+  </TransferKey>
+  <LoginName>test</LoginName>
+  <Password>test</Password>
+  <Server id="Dragon">
+    <Name>Dragon</Name>
+    <Username>test</Username>
+    <Password>test</Password>
+    <IpAddress>127.0.0.1</IpAddress>
+    <Port>9865</Port>
+  </Server>
+</AccountServerConfiguration>
